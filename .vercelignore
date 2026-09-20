@@ -1,0 +1,10 @@
+backend/
+Backend
+app.py
+auth.js
+dashboard.js
+script.js
+routes
+*.csv
+Disease,Symptoms,Ayurvedic Treatment.csv
+.env
